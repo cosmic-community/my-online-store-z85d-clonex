@@ -19,7 +19,7 @@
 
 Want to create your own version of this project with all the content and structure? Clone this Cosmic bucket and code repository to get started instantly:
 
-[![Clone this Project](https://img.shields.io/badge/Clone%20this%20Project-29abe2?style=for-the-badge&logo=cosmic&logoColor=white)](https://app.cosmicjs.com/projects/new?clone_bucket=6a36303a5b2ac5cef3df9055&clone_repository=6a36316f5b2ac5cef3df9090)
+[![Clone this Project](https://img.shields.io/badge/Clone%20this%20Project-29abe2?style=for-the-badge&logo=cosmic&logoColor=white)](https://app.cosmicjs.com/projects/new?clone_bucket=6ab65fa1135b7942815ddb21&clone_repository=6a36316f5b2ac5cef3df9090)
 
 ## Prompts
 
